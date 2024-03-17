@@ -1,0 +1,4 @@
+﻿# Ignore any files in /bin and /obj Folders
+**/bin/*
+**/obj/*
+**/.idea/*
